@@ -1,5 +1,5 @@
 
-
+#jai shree ram
 # OCV Measurement Frequency: 600s
 # I Measurement Frequency: 10s
 # Estimate Variance: [[5.0, 0], [0, 5.0]]
